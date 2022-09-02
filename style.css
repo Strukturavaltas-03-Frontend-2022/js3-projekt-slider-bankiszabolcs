@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+
+    width: 802px;
+    
+    margin: 0 auto;
+    color: white;
+}
+
+.container img{
+    width: 800px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.imgWrapper{
+    position: relative;
+    text-align: center;
+    max-height: 300px;
+    border: .5px solid black;
+}
+
+.counter{
+    position: absolute;
+    top:5px;
+    left: 5px
+}
+
+.caption{
+   position: relative;
+   top: -30px;
+}
+
+.left-arrow{
+    position: absolute;
+    top:50%;
+    left: 10px;
+    cursor: pointer
+}
+
+.right-arrow{
+    position: absolute;
+    top:50%;
+    right: 10px;
+    cursor: pointer;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    color: rgb(143, 143, 143);
+    font-size: small;
+
+    
+}
+
+.buttons i{
+    cursor: pointer;
+}
+
+.button--active{
+    color: rgb(196, 196, 196);
+}

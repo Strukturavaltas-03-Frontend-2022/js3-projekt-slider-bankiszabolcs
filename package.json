@@ -1,0 +1,25 @@
+{
+  "name": "js3-projekt-slider-bankiszabolcs",
+  "version": "1.0.0",
+  "description": "Egy image slider-t kell készítened JavaScript segítségével.",
+  "main": "images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strukturavaltas-03-Frontend-2022/js3-projekt-slider-bankiszabolcs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strukturavaltas-03-Frontend-2022/js3-projekt-slider-bankiszabolcs/issues"
+  },
+  "homepage": "https://github.com/Strukturavaltas-03-Frontend-2022/js3-projekt-slider-bankiszabolcs#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
