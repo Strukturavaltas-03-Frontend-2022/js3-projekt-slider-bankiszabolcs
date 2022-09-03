@@ -30,6 +30,11 @@ const photos = [
     description: 'What happened here, why is this a very nice image',
   },
   {
+    url: 'images/racefansdotnet-21-05-16-17-15-36-4-1536x864.jpg',
+    title: 'My titledsds7',
+    description: 'What happened here, why is this a very nice image',
+  },
+  {
     url: 'images/racefansdotnet-20200216-172124-4.jpg',
     title: 'My title8',
     description: 'What happened here, why is this a very nice image',
