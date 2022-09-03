@@ -1,4 +1,4 @@
-import photos from '/images.js';
+import photos from './images.js';
 
 let imgCounter = 3;
 const numberOfImgs = photos.length;
